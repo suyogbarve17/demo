@@ -1,3 +1,3 @@
 # demo
 My first git repository<br>
-Author - Suyog Barve
+Author - Suyog Barve (B.E)
